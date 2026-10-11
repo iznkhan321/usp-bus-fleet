@@ -1,0 +1,8 @@
+{
+  "name": "USP FleetTrack Telematics",
+  "description": "University of Southern Punjab Transit Telematics, Student Bus Pass, Proximity Alarms & Real-time Fleet Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
